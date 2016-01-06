@@ -22,6 +22,9 @@ static GColor s_hand_color;
 
 // test change
 
+
+// bhsjkghhkj h,gjdshg
+
 static void update_time() {
   time_t temp = time(NULL);
   struct tm *tick_time = localtime(&temp);
