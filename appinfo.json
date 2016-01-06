@@ -38,20 +38,6 @@
                 "type": "bitmap"
             },
             {
-                "file": "images/shot.png",
-                "menuIcon": true,
-                "name": "IMAGE_MENU2",
-                "targetPlatforms": null,
-                "type": "bitmap"
-            },
-            {
-                "file": "images/shot.png",
-                "menuIcon": true,
-                "name": "IMAGE_MENU",
-                "targetPlatforms": null,
-                "type": "bitmap"
-            },
-            {
                 "characterRegex": "[0-9:]",
                 "file": "fonts/OpenSans-Semibold.ttf",
                 "name": "FONT_OPENSANS_41",
