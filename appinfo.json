@@ -13,31 +13,6 @@
     "resources": {
         "media": [
             {
-                "file": "images/screen3.png",
-                "name": "a3",
-                "targetPlatforms": null,
-                "type": "png"
-            },
-            {
-                "file": "images/screen3.png",
-                "name": "a2",
-                "targetPlatforms": null,
-                "type": "png"
-            },
-            {
-                "file": "images/screen3.png",
-                "name": "a1",
-                "targetPlatforms": null,
-                "type": "png"
-            },
-            {
-                "file": "images/shot.png",
-                "menuIcon": true,
-                "name": "IMAGE_MENU2",
-                "targetPlatforms": null,
-                "type": "bitmap"
-            },
-            {
                 "characterRegex": "[0-9:]",
                 "file": "fonts/OpenSans-Semibold.ttf",
                 "name": "FONT_OPENSANS_41",
@@ -47,7 +22,7 @@
             {
                 "characterRegex": "[0-9:]",
                 "file": "fonts/OpenSans-Semibold.ttf",
-                "name": "FONT_OPENSANS_4",
+                "name": "FONT_OPENSANS_48",
                 "targetPlatforms": null,
                 "type": "font"
             }
