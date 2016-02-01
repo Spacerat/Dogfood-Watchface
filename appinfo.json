@@ -15,14 +15,14 @@
             {
                 "characterRegex": "[0-9:]",
                 "file": "fonts/OpenSans-Semibold.ttf",
-                "name": "FONT_OPENSANS_41",
+                "name": "FONT_OPENSANS_48",
                 "targetPlatforms": null,
                 "type": "font"
             },
             {
                 "characterRegex": "[0-9:]",
                 "file": "fonts/OpenSans-Semibold.ttf",
-                "name": "FONT_OPENSANS_48",
+                "name": "FONT_OPENSANS_41",
                 "targetPlatforms": null,
                 "type": "font"
             }
