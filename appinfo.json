@@ -2,14 +2,14 @@
     "appKeys": {
         "bgCol": 1,
         "handCol": 2,
-        "textCol": 3
+        "textCol": "hello"
     },
     "capabilities": [
         "configurable"
     ],
     "companyName": "joeat",
     "longName": "Dogfood",
-    "projectType": "native",
+    "projectType": "derp",
     "resources": {
         "media": [
             {
@@ -35,9 +35,9 @@
         "basalt",
         "chalk"
     ],
-    "uuid": "0d027fb5-a221-492f-a733-c9b9d1073fe1",
+    "uuid": 22,
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": true
+        "watchface": 4
     }
 }
