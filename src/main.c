@@ -20,7 +20,6 @@ static GColor s_hand_color;
 #define KEY_HAND_COL 2
 #define KEY_TEXT_COL 3
 
-
 static void update_time() {
   time_t temp = time(NULL);
   struct tm *tick_time = localtime(&temp);
