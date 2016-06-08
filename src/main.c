@@ -16,6 +16,8 @@ static GColor s_text_color;
 static GColor s_background_color;
 static GColor s_hand_color;
 
+// do do do
+
 #define KEY_BG_COL 1
 #define KEY_HAND_COL 2
 #define KEY_TEXT_COL 3
@@ -28,7 +30,7 @@ static void update_time() {
   static char date_buffer[] = "00/00/0000";
   s_minute = tick_time->tm_min;
   s_hour = tick_time->tm_hour;
-
+  
   strftime(main_buffer, sizeof("00"), "%H", tick_time);
   strftime(outer_buffer, sizeof("00"), "%M", tick_time);
   strftime(date_buffer, sizeof("00/00/0000"), "%m/%d/%Y", tick_time);
