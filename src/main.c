@@ -17,6 +17,7 @@ static GColor s_background_color;
 static GColor s_hand_color;
 
 // do do do
+// dododod
 
 #define KEY_BG_COL 1
 #define KEY_HAND_COL 2
