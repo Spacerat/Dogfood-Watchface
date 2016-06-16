@@ -15,7 +15,7 @@
             "textCol": 3
         },
         "projectType": "native",
-        "resources": {
+        "resources": 
             "media": [
                 {
                     "characterRegex": "[0-9:]",
